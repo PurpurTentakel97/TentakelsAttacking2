@@ -6,6 +6,7 @@
 #pragma once
 #include "Vec2.hpp"
 #include <string>
+#include <memory> // for std::weak_ptr
 
 class Galaxy;
 class Player;
